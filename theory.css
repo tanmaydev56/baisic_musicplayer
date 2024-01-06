@@ -1,18 +1,1 @@
- <---font-family: 'Noto Serif', serif;---!>
- display: flex; <!-- isse home and about horizontal agye  -->
- list-style-type: none;(isse sare dot hat jaye ge)
- .brand img{
-    
- }(img me changes spotify wali)
- nav ul li{
-    padding: 0(top bottom is 0) 12(left right is 12 px)px;
-}(home about ko dur krne ke liye)
-.bottom{
-    position: sticky;
-}
-style bottom part ki
-display: flex;
-justify-content: center;
-align-items: center;(seek bar ko center krne ke liye)
-flex-direction: column;(3no icon neeche agye right se )
-span jabh use hoga jabh ek hi line me rakhna hai
+
